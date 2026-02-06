@@ -1,4 +1,4 @@
-Ad Performance: Finding the "Gold Mines" 📈
+Marketing Ad Performance Analysis 📈
 I took a massive, messy dataset of 70k+ ad rows and turned it into a clear story about where money is being spent versus where engagement is actually happening.
 
 The Problem
